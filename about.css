@@ -1,0 +1,39 @@
+body{
+    height: 100%;
+    margin: 0;
+}
+ h1{
+     color: white;
+ }
+ p{
+
+     color: white;
+ }
+
+span{
+    color:greenyellow;
+}
+img{
+    border-radius: 20px;
+}
+#avatar{
+    width: 144px;
+    height: 140px ;
+    border-radius: 70px;
+    background-image: url(./IMG_0333.jpg);
+    float:right;
+    padding: 2px;
+    margin: 20px;
+}
+
+h5{
+    color: white;
+    text-align: center;
+    
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 951px;
+    
+}
